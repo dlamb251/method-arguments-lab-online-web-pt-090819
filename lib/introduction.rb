@@ -1,3 +1,4 @@
+# lib/introduction.rb
 
-
-def 
+def introduction
+end
